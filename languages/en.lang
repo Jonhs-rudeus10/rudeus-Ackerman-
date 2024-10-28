@@ -95,7 +95,7 @@ handlerEvents.onlyAdminBox=This group is currently enabled only group administra
 handlerEvents.onlyAdminBot=❌ | seulement mon maître peut utiliser le bot pour l'instant 
 handlerEvents.commandNotFound=le commande "%1" n'existe pas pour l'instant, utilise %2help pour voir les commandes disponibles.
 handlerEvents.commandNotFound2= 🌸 𝗕𝗢𝗧 𝗦𝗢𝗨𝗥𝗖𝗘 🍃 \n══════════════════\n ♻️𝗖𝗿𝗲𝗮𝘁𝗼𝗿♻️: ARIEL ACKERMAN  \n══════════════════\n 🎯𝗟𝗜𝗡𝗞 : https://www.facebook.com/profile.php?id=61566739640941\n══════════════════
-handlerEvents.commandSyntaxError=The command you are using is wrong syntax, please type %1help %2 to see the details of how to use this command
+handlerEvents.commandSyntaxError=cette commande a un pb 😝, tape %1help %2 pour voir les détails sur la cmd♻️
 handlerEvents.onlyAdmin=❌ | 𝐬𝐞𝐮𝐥 𝐀𝐑𝐈𝐄𝐋 𝐀𝐂𝐊𝐄𝐑𝐌𝐀𝐍 𝐩𝐞𝐮𝐭 𝐭𝐢𝐥𝐢𝐬𝐞𝐭 𝐥𝐚 𝐜𝐨𝐦𝐦𝐚𝐧𝐝𝐞♻️ "%1" ♻️
 handlerEvents.onlyAdminToUseOnReply=❌ | Only group administrators can use the reply function of the command "%1"
 handlerEvents.onlyAdminToUseOnReaction=❌ | Only group administrators can use the reaction function of the command "%1"
