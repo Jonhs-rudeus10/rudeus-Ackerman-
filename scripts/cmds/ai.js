@@ -99,14 +99,14 @@ module.exports = {
 
       if (!np) {
 
-        return api.sendMessage('💬 Que puis-je faire pour toi 🧘🏽‍♂️', event.threadID, event.messageID);
+        return api.sendMessage('vas y poses moi ta question mortel', event.threadID, event.messageID);
 
       }
 
 
       const cliff = await new Promise(resolve => {
 
-        api.sendMessage('[♻️] Please Wait....', event.threadID, (err, info1) => {
+        api.sendMessage('[♻️. patiente un peu mortel 🤙, event.threadID, (err, info1) => {
 
           resolve(info1);
 
@@ -131,7 +131,7 @@ module.exports = {
 
             role: "user",
 
-            content: `💬 𝙃𝙞 𝙄'𝙢 𝙈𝙞𝙖 𝙍𝙤𝙣𝙖𝙡𝙙'𝙨 𝙫𝙞𝙧𝙩𝙪𝙖𝙡 𝙖𝙨𝙨𝙞𝙨𝙩𝙖𝙣𝙩. 𝙒𝙝𝙖𝙩 𝙘𝙖𝙣 𝙞 𝙙𝙤 𝙛𝙤𝙧 𝙮𝙤𝙪 🤓?`
+            content: `yo mortel 🤙. je suis une intelligence artificielle créé par Ariel Ackerman,je t'aide a quoi ??`
 
           },
 
