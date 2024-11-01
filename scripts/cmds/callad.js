@@ -43,7 +43,7 @@ module.exports = {
 			reply: "📍 Reply from admin %1:\n─────────────────\n%2\n─────────────────\nReply this message to continue send message to admin",
 			replySuccess: "Sent your reply to admin successfully!",
 			feedback: "📝 Feedback from user %1:\n- User ID: %2%3\n\nContent:\n─────────────────\n%4\n─────────────────\nReply this message to send message to user",
-			replyUserSuccess: "Sent your reply to user successfully!",
+			replyUserSuccess: "ariel a eu ton message 📝!",
 			noAdmin: "Bot has no admin at the moment"
 		}
 	},
